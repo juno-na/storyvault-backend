@@ -10,4 +10,5 @@ public class StoryvaultApplication {
 		SpringApplication.run(StoryvaultApplication.class, args);
 	}
 
+
 }
